@@ -1,2 +1,2 @@
-# BE-Boilerplate
-Typescript 기반 Back-End용 Boilerplate 입니다.
+# FE-Boilerplate
+Front-End 개발환경에 대한 Boilerplate 이다.
